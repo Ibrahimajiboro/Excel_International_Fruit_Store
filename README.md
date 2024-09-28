@@ -15,12 +15,12 @@ The Excel file contains several sheets. The following sheets are of particular i
 ### 1. Dataset:
 This is the core data used to create pivot tables across other sheets. It contains six key columns:
 
-Order ID: Unique identifier for each transaction.
-Product: The name of the product sold.
-Category: The product category (e.g., Fruits, Vegetables).
-Amount: The total sales amount for each order.
-Date: The date the order was placed.
-Country: The country where the sale occurred.
+- Order ID: Unique identifier for each transaction.
+- Product: The name of the product sold.
+- Category: The product category (e.g., Fruits, Vegetables).
+- Amount: The total sales amount for each order.
+- Date: The date the order was placed.
+- Country: The country where the sale occurred.
 
 ### 2. Country Sales:
 This sheet contains pivot tables summarizing sales data on a per-country basis, showing how much revenue is generated from each country.
